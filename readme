@@ -1,0 +1,30 @@
+Overview
+BikeEase has successfully implemented various AI-powered solutions for demand forecasting, customer review analysis, and image classification. As they continue to grow, they aim to automate certain tasks using Large Language Models (LLMs), particularly in marketing and advertising generation to attract more customers and increase engagement.
+
+To achieve this, BikeEase plans to develop a Generative AI-powered system that can automatically create engaging and persuasive advertisements based on bike specifications, discount offers, and promotional themes. This will enable them to generate high-quality marketing content without manual effort, saving time and ensuring brand consistency
+
+Project Statement
+
+Develop a Generative AI-powered advertisement generation system using LLMs and LangChain to create compelling promotional content for BikeEase’s rental services
+
+Steps to Perform
+
+Task 1: Understand generative AI & LLMs
+
+Explore how LLMs can be used for automated marketing
+Learn about LangChain and how it helps integrate LLMs into applications
+Task 2: Designing the Ad generation pipeline
+
+Accept user inputs for bike specifications, discount options, and marketing themes
+Use LLMs (Hugging Face models) to generate creative, engaging ads
+Structure the output to align with BikeEase’s branding and tone
+Task 3: Building the LLM-based Ad generator
+
+Use LangChain to manage the prompt engineering process
+Integrate a local Hugging Face model to generate text without API dependencies
+Experiment with different prompt techniques to enhance response quality
+Task 4: Evaluation and optimization
+
+Test the ad variations to ensure quality, persuasiveness, and relevance.
+Implement prompt tuning to fine-tune outputs for different use cases.
+Compare different LLM models to identify the most effective one for marketing

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.conda
+*.ipynb_checkpoints
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Model & cache files
+*.pt
+*.bin
+*.h5
+.cache/
